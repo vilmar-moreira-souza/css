@@ -1,0 +1,43 @@
+/* 
+
+*/
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  background-color: gray;
+  display: grid;
+  grid-template: auto auto / 1fr 3fr 1fr;
+}
+
+.tam {
+  color: white;
+  font-size: 25px;
+}
+
+.div1 {
+  background-color: red;
+}
+
+.div2 {
+  background-color: green;
+}
+
+.div3 {
+  background-color: blue;
+}
+
+.div4 {
+  background-color: red;
+}
+
+.div5 {
+  background-color: green;
+}
+
+.div6 {
+  background-color: blue;
+}
