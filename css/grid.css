@@ -10,7 +10,7 @@
 .container {
   background-color: gray;
   display: grid;
-  grid-template: auto auto / 1fr 3fr 1fr;
+  grid-template: auto auto / 1fr 3fr 1fr;  
 }
 
 .tam {
@@ -41,3 +41,4 @@
 .div6 {
   background-color: blue;
 }
+
